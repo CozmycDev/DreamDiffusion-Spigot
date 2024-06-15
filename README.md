@@ -1,6 +1,6 @@
  # DreamDiffusion
 
-DreamDiffusion is a Spigot plugin that allows players to generate AI art directly in Minecraft! By using the `/dream` command, players can create unique images based on their prompts and display them in-game using maps and item frames.
+DreamDiffusion is a Spigot plugin that allows players to generate AI art directly in Minecraft! By using the `/dream` command, players can create unique images based on their prompts and display them in-game using maps and item frames. Be sure to also join our [Discord](https://discord.dreamdiffusion.net/)!
 
 ## Features
 
@@ -51,7 +51,7 @@ DreamDiffusion is licensed under the GNU General Public License v3.0. See the [L
 
 ## Contact
 
-For support or inquiries, please open an issue on the GitHub repository or reach out to the development team via the SpigotMC page.
+For support or inquiries, please open an issue on the GitHub repository.
 
 ---
 
